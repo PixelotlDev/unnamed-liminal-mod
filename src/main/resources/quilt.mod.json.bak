@@ -16,7 +16,7 @@
 				"sources": "https://github.com/SmallCodeDev/unnamed-liminal-mod"
 			},
 			"icon": "assets/unnamed_liminal_mod/icon.png",
-			"license": "LGPL-3.0-only"
+			"license": "GPL-3.0-only"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {

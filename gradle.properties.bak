@@ -4,7 +4,7 @@ org.gradle.parallel = true
 
 # Mod Properties
 version = 0.0.1
-maven_group = dev.smallcode
+maven_group = dev.pixelotl
 archives_base_name = unnamed_liminal_mod
 
 # Dependencies are managed at gradle/libs.versions.toml
